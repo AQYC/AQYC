@@ -1,0 +1,63 @@
+.make{
+    width: 1360px;
+    height: 625px;
+    float: left;
+}
+.keke{
+    width: 225px;
+    height: 225px;
+    float: left;
+}
+.popo{
+    width: 300px;
+    height: 250px;
+    float: left;
+}
+.yuyu{
+	font-size: 43px;
+    padding-top: 12px;
+    padding-left: 108px;
+    float: left;
+}
+.iuiu{
+	padding-top: 12px;
+    padding-left: 108px;
+	font-size: 20px;
+	float: left;
+}
+.iqiq{
+    margin-left: 108px;
+    margin-top: 39px;
+}
+.iqiq input{
+	width: 90px;
+	height: 52px;
+}
+.uquq{
+	margin-left: 108px;
+    margin-top: 20px;
+}
+.uquq input{
+	width: 90px;
+	height: 52px;
+}
+.uwuw{
+	margin-left: 108px;
+    margin-top: 20px;
+}
+.uwuw input{
+	width: 90px;
+	height: 25px;
+}
+.tqtq{
+	margin-left: 108px;
+    margin-top: 20px;
+}
+.oqoq{
+	margin-left: 108px;
+    margin-top: 20px;
+    width: 90px;
+	height: 52px;
+	background: blue;
+}
+
